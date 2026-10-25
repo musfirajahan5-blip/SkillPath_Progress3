@@ -1,0 +1,12 @@
+[
+    {
+        "name": "musfira",
+        "email": "musfirajahan5@gmail.com",
+        "password": "scrypt:32768:8:1$JvWMjZMZP7Q9fRHr$df405c21974dcb702b38ff84979617ede296ced0bf6fe4b99b7f9ce437647c8ac29751789db667edfc9c9e1888f4eb7b9b328685fadcaa4b10967be9d6b37c0c"
+    },
+    {
+        "name": "Mounika joice",
+        "email": "bunnyanu709@gmail.com",
+        "password": "scrypt:32768:8:1$Goc80kuiOZkWGKfq$9557f396c0ee3e18cbd84d30c71ace8e76bfd1eca849e349b0489dd6184fda6e28e881126e5f8b201781b6ab990d444b20b1adb736238bcd7bedae9048d56092"
+    }
+]

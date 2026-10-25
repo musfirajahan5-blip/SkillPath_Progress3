@@ -1,0 +1,48 @@
+[
+    {
+        "email": "musfirajahan5@gmail.com",
+        "skill": "Machine Learning",
+        "total_questions": 10,
+        "correct_answers": 10,
+        "percentage": 100.0,
+        "level": "Advanced",
+        "recommendation": "You demonstrated strong knowledge. Practice advanced problems and build projects.",
+        "roadmap": [
+            "Learn data preprocessing",
+            "Study supervised and unsupervised learning",
+            "Practice model evaluation",
+            "Build a machine-learning project"
+        ]
+    },
+    {
+        "email": "musfirajahan5@gmail.com",
+        "skill": "Machine Learning",
+        "total_questions": 10,
+        "correct_answers": 9,
+        "percentage": 90.0,
+        "level": "Advanced",
+        "recommendation": "You demonstrated strong knowledge. Practice advanced problems and build projects.",
+        "roadmap": [
+            "Learn data preprocessing",
+            "Study supervised and unsupervised learning",
+            "Practice model evaluation",
+            "Build a machine-learning project"
+        ]
+    },
+    {
+        "email": "musfirajahan5@gmail.com",
+        "skill": "Python",
+        "total_questions": 10,
+        "correct_answers": 7,
+        "percentage": 70.0,
+        "level": "Intermediate",
+        "recommendation": "You understand the fundamentals. Practice intermediate concepts and practical exercises.",
+        "date": "25-10-2026 06:24 AM",
+        "roadmap": [
+            "Revise Python fundamentals and data structures",
+            "Practice functions and object-oriented programming",
+            "Solve coding exercises",
+            "Build a Python mini-project"
+        ]
+    }
+]
